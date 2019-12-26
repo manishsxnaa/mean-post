@@ -1,0 +1,26 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+.info-text {
+  text-align: center;
+}
+.show-vote {
+  height: 20px;
+  width: 20px;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  background-color: rosybrown;
+
+}
+.post-title {
+  font-weight: bolder;
+  font-size: medium;
+  margin-left: 5px;
+}
